@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tictactoe1.gif" alt="logo" height="120" align="right" />
-# lab5
->  实现一个命令行控制的“井字棋”小游戏，练习while循环，为Project中的游戏控制逻辑做好准备。
+# lab4
+>  实现一个命令行控制的“井字棋”小游戏，练习while循环。
 
 ## 问题描述
 
@@ -47,8 +47,8 @@
 
 ## 提交
 
-将代码打包，以`学号_姓名.文件类型`的格式命名，如`13302010039_童仲毅.zip`。上传至FTP：
+将代码打包，以`学号_姓名.文件类型`的格式命名，如`16302010001_陈雷远.zip`。上传至FTP：
 
 ```json
-ftp://10.132.141.33/classes/16/161 程序设计A （戴开宇）/WORK_UPLOAD/lab5
+ftp://10.132.141.33/classes/19/191 程序设计A （陈荣华）/WORK_UPLOAD/lab4
 ```
