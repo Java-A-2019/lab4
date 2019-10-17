@@ -1,6 +1,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tictactoe1.gif" alt="logo" height="120" align="right" />
+
+
 # lab4
->  实现一个命令行控制的“井字棋”小游戏，练习while循环。
+
+> 实现一个命令行控制的“井字棋”小游戏，练习while循环。
 
 ## 问题描述
 
